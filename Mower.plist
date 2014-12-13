@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>http://61.153.100.57/moshi_download/Public/Uploads/icon/Icon2x</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>http://61.153.100.57/moshi_download/Public/Uploads/icon/Icon</string>
 				</dict>
 			</array>
 			<key>metadata</key>
